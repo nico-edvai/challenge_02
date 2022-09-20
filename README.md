@@ -1,7 +1,7 @@
 # Challenge 02: Trabajemos con Listas en Python
 ## Desafío número 2 para la comunidad de Escuela de Datos Vivos
 
-Cuando creamos una lista con strings y aplicamos el método *.sort()* generalmente la lista de ordena alfabéticamente 'bien' 
+Cuando creamos una lista con strings y aplicamos el método *.sort()* generalmente la lista se ordena alfabéticamente 'bien' 
 por ejemplo:
 
 ``` python 
