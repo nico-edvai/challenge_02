@@ -12,14 +12,14 @@ print(lst_frutas)
 
 ``` python
 # resultado
-['alcachofa', 'anana', 'limón', 'manzana', 'naranja']
+['alcachofa', 'ananá', 'limón', 'manzana', 'naranja']
 ```
 
 ## ...Pero ... ¿qué sucede cuando mezclamos minúsculas y mayúsculas?
 
 Para la siguiente lista 
 ``` python
-lst_palabras = ['Antonia','Mariel','Miguel','banana','anana','Gerardo','naranja','Sofía','Argentina']
+lst_palabras = ['Antonia','Mariel','Miguel','banana','ananá','Gerardo','naranja','Sofía','Argentina']
 print(lst_palabras)
 ``` 
 ``` 
