@@ -23,7 +23,7 @@ lst_palabras = ['Antonia','Mariel','Miguel','banana','ananá','Gerardo','naranja
 print(lst_palabras)
 ``` 
 ``` 
-['Antonia', 'Mariel', 'Miguel', 'banana', 'anana', 'Gerardo', 'naranja', 'Sofía', 'Argentina']
+['Antonia', 'Mariel', 'Miguel', 'banana', 'ananá', 'Gerardo', 'naranja', 'Sofía', 'Argentina']
 ``` 
 ``` 
 # ordenamos
@@ -39,7 +39,7 @@ print(lst_palabras)
  'Mariel',
  'Miguel',
  'Sofía',
- 'anana', #<-- empieza por a!!! 
+ 'ananá', #<-- empieza por a!!! 
  'banana',
  'naranja']
 ``` 
